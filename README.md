@@ -1,1 +1,1 @@
-# policyPrivacyDiscuss
+need access permission camaera and phone state
